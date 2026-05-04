@@ -2,6 +2,10 @@
 
 Site desenvolvido como homenagem à literatura de cordel, utilizando o poema **"Tecnologia Moderna"** de Milton Duarte. O projeto combina a riqueza da cultura popular nordestina com recursos modernos de CSS como o efeito parallax.
 
+## 📸 Preview
+
+![projeto-android](https://github.com/user-attachments/assets/c141ed5a-0ca0-4a46-9997-f6dcb28ef1a9)
+
 ---
 
 ## 🚀 Acesse o Projeto
